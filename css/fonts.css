@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Yandex Sans Text';
+	
+    src: url('../fonts/YandexSansText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Yandex Sans Text';
+	
+    src: url('../fonts/YandexSansText-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Yandex Sans Text';
+	
+    src: url('../fonts/YandexSansText-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Yandex Sans Text';
+	
+    src: url('../fonts/YandexSansText-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
